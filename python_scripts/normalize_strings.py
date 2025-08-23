@@ -12,5 +12,5 @@ def normalize_strings(df):
 
         # regex pattern removes ANY characters that are not letters and/or numbers
         # works to remove replacement character (black diamond w/ white question mark in excel)
-        df[col] = df[col].str.replace(r'[^a-zA-Z0-9]', '', regex=True)
+        df[col] = df[col].str.replace(r'[^a-zA-Z0-9]', ' ', regex=True)
     return df
