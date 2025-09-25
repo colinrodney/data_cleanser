@@ -22,3 +22,28 @@ This tool **automates** the process, saving hours of manual work.
 2. Run the script:
    ```bash
    python batch_clean_data.py
+
+---
+
+## 💼 Use Cases
+
+   - Clean messy CRM exports
+   - Prepare data for analysis / reporting
+   - Makes data easier to read
+
+---
+
+## 📊 Value 
+
+   - Saves hours of manual spreadsheet cleanup allowing you to focus on optimizing your business
+   - Prevents errors in analysis
+   - Provides consistent, reliable data for decision-making
+
+---
+
+🔧 Tech Stack
+
+   - Python 3.x
+   - pandas
+   - os (file handling)
+
