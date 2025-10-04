@@ -1,0 +1,12 @@
+Boolean Series indicating duplicates:'0    False
+1    False
+2    False
+3     True
+4    False
+5     True
+dtype: bool
+
+Pre-cleansing statistics: 
+Number of duplicate rows: 2
+Total number of rows : 6
+Percentage of duplicate rows: 33.33%

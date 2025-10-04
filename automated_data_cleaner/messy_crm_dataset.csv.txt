@@ -1,0 +1,61 @@
+Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 500
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of     customer_id             name                       email     phone_number  \
+0      V9NI97D1    Caitlin Braun   caitlinbraun941@yahoo.com     528-661-4506   
+1      NNV7CWF1       John Brown       johnbrown577@yahoo.co      485-2036208   
+2      EOKPZD9O    Barbara Walls      barbarawalls@gmail.org     541 570 3780   
+3      6WHZXW6T     Lynn Coleman       lynncoleman@yahoo.org   (801) 750-9883   
+4      RCES5GL5  James Stevenson     jamesstevenson@gmail.co     (211)8584312   
+..          ...              ...                         ...              ...   
+495    3PGQDUS8   Jeffrey Jordan    jeffreyjordan@gmail16.co  +1 293 158 7271   
+496    9SR0OI5O      Jose Hanson  josehanson898@hotmail10.us     (867)6281917   
+497    FJORK5OJ      Carlos Dean       carlosdean@example.us     136.343.5784   
+498    496H1X1O       Jack White         jackwhite@gmail.net   (989) 954-9166   
+499    KD5IWG9I  Hunter Robinson     hunterrobinson@yahoo.co     (912)5604540   
+
+                 city registration_date  
+0         Robertsview        2021-06-13  
+1            Combston        2023-11-23  
+2            New Mary        2025-06-17  
+3          Donnaburgh        2024-01-30  
+4        North Morgan        2022-12-07  
+..                ...               ...  
+495   North Aprilfort        2025-01-13  
+496      West Michael        2023-12-21  
+497  east yvonnehaven        2023-02-12  
+498      south amanda        2021-08-22  
+499    New Amandatown        2022-08-12  
+
+[500 rows x 6 columns]>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 500
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of     customer_id             name                       email     phone_number  \
+0      V9NI97D1    Caitlin Braun   caitlinbraun941@yahoo.com     528-661-4506   
+1      NNV7CWF1       John Brown       johnbrown577@yahoo.co      485-2036208   
+2      EOKPZD9O    Barbara Walls      barbarawalls@gmail.org     541 570 3780   
+3      6WHZXW6T     Lynn Coleman       lynncoleman@yahoo.org   (801) 750-9883   
+4      RCES5GL5  James Stevenson     jamesstevenson@gmail.co     (211)8584312   
+..          ...              ...                         ...              ...   
+495    3PGQDUS8   Jeffrey Jordan    jeffreyjordan@gmail16.co  +1 293 158 7271   
+496    9SR0OI5O      Jose Hanson  josehanson898@hotmail10.us     (867)6281917   
+497    FJORK5OJ      Carlos Dean       carlosdean@example.us     136.343.5784   
+498    496H1X1O       Jack White         jackwhite@gmail.net   (989) 954-9166   
+499    KD5IWG9I  Hunter Robinson     hunterrobinson@yahoo.co     (912)5604540   
+
+                 city registration_date  
+0         Robertsview        2021-06-13  
+1            Combston        2023-11-23  
+2            New Mary        2025-06-17  
+3          Donnaburgh        2024-01-30  
+4        North Morgan        2022-12-07  
+..                ...               ...  
+495   North Aprilfort        2025-01-13  
+496      West Michael        2023-12-21  
+497  east yvonnehaven        2023-02-12  
+498      south amanda        2021-08-22  
+499    New Amandatown        2022-08-12  
+
+[500 rows x 6 columns]>

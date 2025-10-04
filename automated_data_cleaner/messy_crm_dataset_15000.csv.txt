@@ -1,0 +1,61 @@
+Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 15000
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of       customer_id            name                        email  \
+0        3M0YEDY5  Amber Bartlett     amberbartlett@example.co   
+1        6JD2QZKY  Brian Robinson  brianrobinson@hotmail11.net   
+2        9L07IA9E        Bryce Li            bryceli@yahoo.com   
+3        UK6MALLG  Michael Kaiser    michaelkaiser406@gmail.co   
+4        3GOKY69M   Donald Juarez        donaldjuarez@gmail.us   
+...           ...             ...                          ...   
+14995    O7J7QDLV  Brian Fletcher    brianfletcher@example1.co   
+14996    GB7DP26Z    Kelly Hudson      kellyhudson@outlook.org   
+14997    WJ6RQIOA    Thomas Vance      thomasvance@hotmail.net   
+14998    4TAYRSDO    Melvin Ortiz                          NaN   
+14999    LFA9OWA7      Rhonda Cox        rhondacox@outlook.net   
+
+          phone_number               city registration_date  
+0       (519) 438-7215       West Kristin        2020-11-27  
+1       (886) 147-2230        Estradaberg        2023-05-07  
+2          642-1596202       Lawrencefort        2025-05-25  
+3         520 828 6109   East Collinville        2021-11-21  
+4          348-6125104    New Michaelbury        2024-08-04  
+...                ...                ...               ...  
+14995  +1 782 915 2316        Mcclurebury        2024-03-20  
+14996     150.952.7357         Lopezhaven        2025-01-10  
+14997     518 468 8702         Lake Emily        2023-04-25  
+14998     (204)6745488  South Matthewport        2025-07-25  
+14999     569 932 1509     Marquezchester        2025-08-08  
+
+[15000 rows x 6 columns]>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 15000
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of       customer_id            name                        email  \
+0        3M0YEDY5  Amber Bartlett     amberbartlett@example.co   
+1        6JD2QZKY  Brian Robinson  brianrobinson@hotmail11.net   
+2        9L07IA9E        Bryce Li            bryceli@yahoo.com   
+3        UK6MALLG  Michael Kaiser    michaelkaiser406@gmail.co   
+4        3GOKY69M   Donald Juarez        donaldjuarez@gmail.us   
+...           ...             ...                          ...   
+14995    O7J7QDLV  Brian Fletcher    brianfletcher@example1.co   
+14996    GB7DP26Z    Kelly Hudson      kellyhudson@outlook.org   
+14997    WJ6RQIOA    Thomas Vance      thomasvance@hotmail.net   
+14998    4TAYRSDO    Melvin Ortiz                          NaN   
+14999    LFA9OWA7      Rhonda Cox        rhondacox@outlook.net   
+
+          phone_number               city registration_date  
+0       (519) 438-7215       West Kristin        2020-11-27  
+1       (886) 147-2230        Estradaberg        2023-05-07  
+2          642-1596202       Lawrencefort        2025-05-25  
+3         520 828 6109   East Collinville        2021-11-21  
+4          348-6125104    New Michaelbury        2024-08-04  
+...                ...                ...               ...  
+14995  +1 782 915 2316        Mcclurebury        2024-03-20  
+14996     150.952.7357         Lopezhaven        2025-01-10  
+14997     518 468 8702         Lake Emily        2023-04-25  
+14998     (204)6745488  South Matthewport        2025-07-25  
+14999     569 932 1509     Marquezchester        2025-08-08  
+
+[15000 rows x 6 columns]>
