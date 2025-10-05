@@ -25,6 +25,15 @@ This tool **automates** the process, saving hours of manual work.
 
 ---
 
+## Example:
+Here is an before and after example of a 15K line CRM data set before cleansing: <br>
+
+Before cleansing:
+![Screenshot 2025-10-05 091505.png](attachment:82c28ec3-8335-4f1c-942c-28333983a3ad.png)
+
+After cleansing:
+
+
 ## 💼 Use Cases
 
    - Clean messy CRM exports
