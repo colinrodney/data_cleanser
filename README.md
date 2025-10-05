@@ -29,9 +29,11 @@ This tool **automates** the process, saving hours of manual work.
 Here is an before and after example of a 15K line CRM data set before cleansing: <br>
 
 Before cleansing:
-![Screenshot 2025-10-05 091505.png](attachment:82c28ec3-8335-4f1c-942c-28333983a3ad.png)
+![15K dataset BEFORE cleansing](15K_dataset_pre-cleansing.png)
+
 
 After cleansing:
+![15K dataset AFTER cleansing](15K_dataset_post-cleansing.png)
 
 
 ## 💼 Use Cases
