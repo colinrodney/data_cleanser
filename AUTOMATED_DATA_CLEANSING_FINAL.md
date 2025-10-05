@@ -434,7 +434,205 @@ for filename in os.listdir(input_folder):
     registration_date    13
     dtype: int64 
     
-    ❌ Failed to process messy_crm_dataset.csv: name 'x' is not defined
+    
+    Index(['customer_id', 'name', 'email', 'phone_number', 'city',
+           'registration_date'],
+          dtype='object') 
+    
+    0       caitlinbraun941@yahoo.com
+    1           johnbrown577@yahoo.co
+    2          barbarawalls@gmail.org
+    3           lynncoleman@yahoo.org
+    4         jamesstevenson@gmail.co
+                      ...            
+    495      jeffreyjordan@gmail16.co
+    496    josehanson898@hotmail10.us
+    497         carlosdean@example.us
+    498           jackwhite@gmail.net
+    499       hunterrobinson@yahoo.co
+    Name: email, Length: 500, dtype: object 
+    
+    0        Caitlin Braun
+    1           John Brown
+    2        Barbara Walls
+    3         Lynn Coleman
+    4      James Stevenson
+                ...       
+    495     Jeffrey Jordan
+    496        Jose Hanson
+    497        Carlos Dean
+    498         Jack White
+    499    Hunter Robinson
+    Name: name, Length: 500, dtype: object 
+    
+    0      528-661-4506
+    1      485-203-6208
+    2      541-570-3780
+    3      801-750-9883
+    4      211-858-4312
+               ...     
+    495    293-158-7271
+    496    867-628-1917
+    497    136-343-5784
+    498    989-954-9166
+    499    912-560-4540
+    Name: phone_number, Length: 500, dtype: object 
+    
+    0           Robertsview
+    1              Combston
+    2              New Mary
+    3            Donnaburgh
+    4          North Morgan
+                 ...       
+    495     North Aprilfort
+    496        West Michael
+    497    East Yvonnehaven
+    498        South Amanda
+    499      New Amandatown
+    Name: city, Length: 500, dtype: object 
+    
+    OUTPUT_PATH: 
+     cleaned_data\cleaned_messy_crm_dataset.csv
+    
+
+
+    'DATAFRAME AFTER CLEANSING:'
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>customer_id</th>
+      <th>name</th>
+      <th>email</th>
+      <th>phone_number</th>
+      <th>city</th>
+      <th>registration_date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>V9NI97D1</td>
+      <td>Caitlin Braun</td>
+      <td>caitlinbraun941@yahoo.com</td>
+      <td>528-661-4506</td>
+      <td>Robertsview</td>
+      <td>2021-06-13</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>NNV7CWF1</td>
+      <td>John Brown</td>
+      <td>johnbrown577@yahoo.co</td>
+      <td>485-203-6208</td>
+      <td>Combston</td>
+      <td>2023-11-23</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>EOKPZD9O</td>
+      <td>Barbara Walls</td>
+      <td>barbarawalls@gmail.org</td>
+      <td>541-570-3780</td>
+      <td>New Mary</td>
+      <td>2025-06-17</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>6WHZXW6T</td>
+      <td>Lynn Coleman</td>
+      <td>lynncoleman@yahoo.org</td>
+      <td>801-750-9883</td>
+      <td>Donnaburgh</td>
+      <td>2024-01-30</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>RCES5GL5</td>
+      <td>James Stevenson</td>
+      <td>jamesstevenson@gmail.co</td>
+      <td>211-858-4312</td>
+      <td>North Morgan</td>
+      <td>2022-12-07</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>495</th>
+      <td>3PGQDUS8</td>
+      <td>Jeffrey Jordan</td>
+      <td>jeffreyjordan@gmail16.co</td>
+      <td>293-158-7271</td>
+      <td>North Aprilfort</td>
+      <td>2025-01-13</td>
+    </tr>
+    <tr>
+      <th>496</th>
+      <td>9SR0OI5O</td>
+      <td>Jose Hanson</td>
+      <td>josehanson898@hotmail10.us</td>
+      <td>867-628-1917</td>
+      <td>West Michael</td>
+      <td>2023-12-21</td>
+    </tr>
+    <tr>
+      <th>497</th>
+      <td>FJORK5OJ</td>
+      <td>Carlos Dean</td>
+      <td>carlosdean@example.us</td>
+      <td>136-343-5784</td>
+      <td>East Yvonnehaven</td>
+      <td>2023-02-12</td>
+    </tr>
+    <tr>
+      <th>498</th>
+      <td>496H1X1O</td>
+      <td>Jack White</td>
+      <td>jackwhite@gmail.net</td>
+      <td>989-954-9166</td>
+      <td>South Amanda</td>
+      <td>2021-08-22</td>
+    </tr>
+    <tr>
+      <th>499</th>
+      <td>KD5IWG9I</td>
+      <td>Hunter Robinson</td>
+      <td>hunterrobinson@yahoo.co</td>
+      <td>912-560-4540</td>
+      <td>New Amandatown</td>
+      <td>2022-08-12</td>
+    </tr>
+  </tbody>
+</table>
+<p>500 rows × 6 columns</p>
+</div>
+
+
+    ✅ Cleaned: messy_crm_dataset.csv → cleaned_data\cleaned_messy_crm_dataset.csv
     FILENAME:'
     ' messy_crm_dataset_15000.csv
     FILEPATH: 
@@ -608,7 +806,205 @@ for filename in os.listdir(input_folder):
     registration_date    303
     dtype: int64 
     
-    ❌ Failed to process messy_crm_dataset_15000.csv: name 'x' is not defined
+    
+    Index(['customer_id', 'name', 'email', 'phone_number', 'city',
+           'registration_date'],
+          dtype='object') 
+    
+    0           amberbartlett@example.co
+    1        brianrobinson@hotmail11.net
+    2                  bryceli@yahoo.com
+    3          michaelkaiser406@gmail.co
+    4              donaldjuarez@gmail.us
+                        ...             
+    14995      brianfletcher@example1.co
+    14996        kellyhudson@outlook.org
+    14997        thomasvance@hotmail.net
+    14998                            NaN
+    14999          rhondacox@outlook.net
+    Name: email, Length: 15000, dtype: object 
+    
+    0        Amber Bartlett
+    1        Brian Robinson
+    2              Bryce Li
+    3        Michael Kaiser
+    4         Donald Juarez
+                  ...      
+    14995    Brian Fletcher
+    14996      Kelly Hudson
+    14997      Thomas Vance
+    14998      Melvin Ortiz
+    14999        Rhonda Cox
+    Name: name, Length: 15000, dtype: object 
+    
+    0        519-438-7215
+    1        886-147-2230
+    2        642-159-6202
+    3        520-828-6109
+    4        348-612-5104
+                 ...     
+    14995    782-915-2316
+    14996    150-952-7357
+    14997    518-468-8702
+    14998    204-674-5488
+    14999    569-932-1509
+    Name: phone_number, Length: 15000, dtype: object 
+    
+    0             West Kristin
+    1              Estradaberg
+    2             Lawrencefort
+    3         East Collinville
+    4          New Michaelbury
+                   ...        
+    14995          Mcclurebury
+    14996           Lopezhaven
+    14997           Lake Emily
+    14998    South Matthewport
+    14999       Marquezchester
+    Name: city, Length: 15000, dtype: object 
+    
+    OUTPUT_PATH: 
+     cleaned_data\cleaned_messy_crm_dataset_15000.csv
+    
+
+
+    'DATAFRAME AFTER CLEANSING:'
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>customer_id</th>
+      <th>name</th>
+      <th>email</th>
+      <th>phone_number</th>
+      <th>city</th>
+      <th>registration_date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>3M0YEDY5</td>
+      <td>Amber Bartlett</td>
+      <td>amberbartlett@example.co</td>
+      <td>519-438-7215</td>
+      <td>West Kristin</td>
+      <td>2020-11-27</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>6JD2QZKY</td>
+      <td>Brian Robinson</td>
+      <td>brianrobinson@hotmail11.net</td>
+      <td>886-147-2230</td>
+      <td>Estradaberg</td>
+      <td>2023-05-07</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>9L07IA9E</td>
+      <td>Bryce Li</td>
+      <td>bryceli@yahoo.com</td>
+      <td>642-159-6202</td>
+      <td>Lawrencefort</td>
+      <td>2025-05-25</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>UK6MALLG</td>
+      <td>Michael Kaiser</td>
+      <td>michaelkaiser406@gmail.co</td>
+      <td>520-828-6109</td>
+      <td>East Collinville</td>
+      <td>2021-11-21</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>3GOKY69M</td>
+      <td>Donald Juarez</td>
+      <td>donaldjuarez@gmail.us</td>
+      <td>348-612-5104</td>
+      <td>New Michaelbury</td>
+      <td>2024-08-04</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>14995</th>
+      <td>O7J7QDLV</td>
+      <td>Brian Fletcher</td>
+      <td>brianfletcher@example1.co</td>
+      <td>782-915-2316</td>
+      <td>Mcclurebury</td>
+      <td>2024-03-20</td>
+    </tr>
+    <tr>
+      <th>14996</th>
+      <td>GB7DP26Z</td>
+      <td>Kelly Hudson</td>
+      <td>kellyhudson@outlook.org</td>
+      <td>150-952-7357</td>
+      <td>Lopezhaven</td>
+      <td>2025-01-10</td>
+    </tr>
+    <tr>
+      <th>14997</th>
+      <td>WJ6RQIOA</td>
+      <td>Thomas Vance</td>
+      <td>thomasvance@hotmail.net</td>
+      <td>518-468-8702</td>
+      <td>Lake Emily</td>
+      <td>2023-04-25</td>
+    </tr>
+    <tr>
+      <th>14998</th>
+      <td>4TAYRSDO</td>
+      <td>Melvin Ortiz</td>
+      <td>NONE_NEW</td>
+      <td>204-674-5488</td>
+      <td>South Matthewport</td>
+      <td>2025-07-25</td>
+    </tr>
+    <tr>
+      <th>14999</th>
+      <td>LFA9OWA7</td>
+      <td>Rhonda Cox</td>
+      <td>rhondacox@outlook.net</td>
+      <td>569-932-1509</td>
+      <td>Marquezchester</td>
+      <td>2025-08-08</td>
+    </tr>
+  </tbody>
+</table>
+<p>15000 rows × 6 columns</p>
+</div>
+
+
+    ✅ Cleaned: messy_crm_dataset_15000.csv → cleaned_data\cleaned_messy_crm_dataset_15000.csv
     
 
 
