@@ -1,0 +1,81 @@
+Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0         name                   email age           join_date
+0           0  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01
+1           1          NaN                                                
+2           2     Jane Doe   jane+AEA-example.com               06/15/2024
+3           3  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0         name                   email age           join_date
+0           0  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01
+1           1          NaN                                                
+2           2     Jane Doe   jane+AEA-example.com               06/15/2024
+3           3  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0         name                   email age           join_date
+0           0  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01
+1           1          NaN                                                
+2           2     Jane Doe   jane+AEA-example.com               06/15/2024
+3           3  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0         name                   email age           join_date
+0           0  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01
+1           1          NaN                                                
+2           2     Jane Doe   jane+AEA-example.com               06/15/2024
+3           3  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0         name                   email age           join_date
+0           0  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01
+1           1          NaN                                                
+2           2     Jane Doe   jane+AEA-example.com               06/15/2024
+3           3  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0         name                   email age           join_date
+0           0  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01
+1           1          NaN                                                
+2           2     Jane Doe   jane+AEA-example.com               06/15/2024
+3           3  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0         name                   email age           join_date
+0           0  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01
+1           1          NaN                                                
+2           2     Jane Doe   jane+AEA-example.com               06/15/2024
+3           3  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0         name                   email age           join_date
+0           0  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01
+1           1          NaN                                                
+2           2     Jane Doe   jane+AEA-example.com               06/15/2024
+3           3  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0         name                   email age           join_date
+0           0  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01
+1           1          NaN                                                
+2           2     Jane Doe   jane+AEA-example.com               06/15/2024
+3           3  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01>Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0         name                   email age           join_date
+0           0  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01
+1           1          NaN                                                
+2           2     Jane Doe   jane+AEA-example.com               06/15/2024
+3           3  John Smith     JOHN+AEA-example.com  28  2024+AC0-06+AC0-01>

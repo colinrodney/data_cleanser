@@ -1,0 +1,99 @@
+Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0  unnamed_0  unnamed_0.1         name                   email  \
+0           0          0            0  John Smith     JOHN@@@@@example.com   
+1           1          1            1          NaN                           
+2           2          2            2     Jane Doe   jane@@@@@example.com    
+3           3          3            3  John Smith     JOHN@@@@@example.com   
+
+  age           join_date  
+0  28  2024@@C0@06@@C0@01  
+1                          
+2              06/15/2024  
+3  28  2024@@C0@06@@C0@01  >Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0  unnamed_0  unnamed_0.1         name                   email  \
+0           0          0            0  John Smith     JOHN@@@@@example.com   
+1           1          1            1          NaN                           
+2           2          2            2     Jane Doe   jane@@@@@example.com    
+3           3          3            3  John Smith     JOHN@@@@@example.com   
+
+  age           join_date  
+0  28  2024@@C0@06@@C0@01  
+1                          
+2              06/15/2024  
+3  28  2024@@C0@06@@C0@01  >Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0  unnamed_0  unnamed_0.1         name                   email  \
+0           0          0            0  John Smith     JOHN@@@@@example.com   
+1           1          1            1          NaN                           
+2           2          2            2     Jane Doe   jane@@@@@example.com    
+3           3          3            3  John Smith     JOHN@@@@@example.com   
+
+  age           join_date  
+0  28  2024@@C0@06@@C0@01  
+1                          
+2              06/15/2024  
+3  28  2024@@C0@06@@C0@01  >Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0  unnamed_0  unnamed_0.1         name                   email  \
+0           0          0            0  John Smith     JOHN@@@@@example.com   
+1           1          1            1          NaN                           
+2           2          2            2     Jane Doe   jane@@@@@example.com    
+3           3          3            3  John Smith     JOHN@@@@@example.com   
+
+  age           join_date  
+0  28  2024@@C0@06@@C0@01  
+1                          
+2              06/15/2024  
+3  28  2024@@C0@06@@C0@01  >Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0  unnamed_0  unnamed_0.1         name                   email  \
+0           0          0            0  John Smith     JOHN@@@@@example.com   
+1           1          1            1          NaN                           
+2           2          2            2     Jane Doe   jane@@@@@example.com    
+3           3          3            3  John Smith     JOHN@@@@@example.com   
+
+  age           join_date  
+0  28  2024@@C0@06@@C0@01  
+1                          
+2              06/15/2024  
+3  28  2024@@C0@06@@C0@01  >Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0  unnamed_0  unnamed_0.1         name                   email  \
+0           0          0            0  John Smith     JOHN@@@@@example.com   
+1           1          1            1          NaN                           
+2           2          2            2     Jane Doe   jane@@@@@example.com    
+3           3          3            3  John Smith     JOHN@@@@@example.com   
+
+  age           join_date  
+0  28  2024@@C0@06@@C0@01  
+1                          
+2              06/15/2024  
+3  28  2024@@C0@06@@C0@01  >Pre-cleansing statistics: 
+Number of duplicate rows: 0
+Total number of rows : 4
+Percentage of duplicate rows: 0.00%
+DATAFRAME INFO: <bound method DataFrame.info of    Unnamed: 0  unnamed_0  unnamed_0.1         name                   email  \
+0           0          0            0  John Smith     JOHN@@@@@example.com   
+1           1          1            1          NaN                           
+2           2          2            2     Jane Doe   jane@@@@@example.com    
+3           3          3            3  John Smith     JOHN@@@@@example.com   
+
+  age           join_date  
+0  28  2024@@C0@06@@C0@01  
+1                          
+2              06/15/2024  
+3  28  2024@@C0@06@@C0@01  >
